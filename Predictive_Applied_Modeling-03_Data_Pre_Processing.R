@@ -1,3 +1,6 @@
+
+################################################################################
+## From Predictive Applied Modeling (https://github.com/cran/AppliedPredictiveModeling/tree/master/inst/chapters)
 ################################################################################
 ### Section 3.1 Case Study: Cell Segmentation in High-Content Screening
 
