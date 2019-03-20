@@ -31,3 +31,8 @@ D(f, "x")
 # f(x,y)=e^e^y+1+logx
 f <- expression(exp(exp(y+2)) + log(x))
 D(f, "x")
+
+# f(x) = 1 / (1 + e^(-x)) 
+f <- expression( 1 / (1 + exp(-x)))
+D(f, "x")
+
