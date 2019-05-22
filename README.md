@@ -3,6 +3,7 @@ Source codes which are included in this repository are mainly from various books
 
 
 # The main source of codes and content 
+- https://github.com/rghan/ISLR
 - https://github.com/cran/AppliedPredictiveModeling/tree/master/inst/chapters
 - 
 
